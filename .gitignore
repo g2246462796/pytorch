@@ -1,2 +1,4 @@
-*.0
 *.gz
+*.out.tfevents.*
+*_batch*
+batches.*
